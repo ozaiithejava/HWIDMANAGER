@@ -1,0 +1,2 @@
+# HWIDMANAGER
+java hwid manager
